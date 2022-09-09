@@ -13,8 +13,9 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="60" width="80" src="https://cdn.discordapp.com/attachments/1017936624690135141/1017938759347617883/cisco_ccna.png">
+  <img align="center" alt="Marcelo-ccna" height="40" width="40" src="https://cdn.discordapp.com/attachments/1017936624690135141/1017937926866350200/ccna.png">
+  <img align="center" alt="Marcelo-bash" height="40" width="40" src="https://cdn.discordapp.com/attachments/1017936624690135141/1017940695241203743/bash.png">
+  <img align="center" alt="Marcelo-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ##
